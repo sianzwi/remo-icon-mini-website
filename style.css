@@ -465,7 +465,14 @@ img {
     color: rgba(255,255,255,.72);
     text-align: center;
     font-size: .86rem;
-}
+}.social-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    margin: 0 0 16px;
+    padding: 0;
+    list-style: none
 
 .site-footer p + p {
     margin-top: 5px;
