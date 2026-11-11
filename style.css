@@ -472,7 +472,8 @@ img {
     gap: 12px;
     margin: 0 0 16px;
     padding: 0;
-    list-style: none
+    list-style: none;
+}
 
 .site-footer p + p {
     margin-top: 5px;
